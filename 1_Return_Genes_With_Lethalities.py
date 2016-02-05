@@ -8,11 +8,11 @@ import codecs
 from itertools import repeat
 import csv
 import sys
-inputfile = open('./phenotype_data.tab', mode='r')
+inputfile = open('./phenoGeneCleanData_fish.txt', mode='r')
 outputfile = open('./Lethal&Viable_Genes.txt', mode='w')
 
 for line in inputfile:
-    if "inviable" in line or "viable" in line:
+    if "lethal" in line or "viable" in line:
         outputfile.write(line)
 
 inputfile.close()
@@ -28,19 +28,16 @@ outputfile = csv.writer(outputfile)
 for row in inputfile:
 
     count = int (1)
-    del row[1]
+
 
     if count > 0:
-        #outputfile.writerows(row[0])
-        outputfile.writerows(repeat(row[0:1] + row[8:9], count))
 
+        outputfile.writerows(repeat(row[1:2] + row[10:11], count))
 
-
+        print row[1] + row[10]
 
 data = {}
 
-
-#inputfile = open('./Gene_With_Lethal&Viable_Only.txt', mode='r')
 inputfile = open('./Genes&Lethality_Rows.txt', mode='r')
 outputfile = open('./Genes_With_All_Lethality.txt', mode='w')
 
