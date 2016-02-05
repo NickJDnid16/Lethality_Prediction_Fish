@@ -10,17 +10,16 @@ GOoutputfile = open('./Gene_With_Only_GO.txt', mode='w')
 FUNCoutputfile = open('./Gene_With_GO_FUNC .txt', mode='w')
 Seen =[]
 FUNC = []
-geneAssociation = open('./gene_association.sgd')
-geneAssociation = csv.reader(geneAssociation, delimiter='\t')
+geneAssociation = open('./gene_association.txt')
 
-for rows in geneAssociation:
 
-    if(rows[0] == "SGD"):#FlyBase = FB
-        head, sep, tail = rows[10].partition('|')
-        genome = head
-        print genome
-        GO = rows[4]
-        dataMarker = rows[6]
+for line in geneAssociation:
+
+    if(line[0] == "ZFIN"):#FlyBase = FB
+        split_string = line.split("\t")
+        genome = split_string [2]
+        GO = split_string [4]
+        dataMarker = split_string [6]
         data[genome] = data.get(genome,"")+GO+","+dataMarker+","
         if genome not in Seen:
             Seen.append(genome)
@@ -44,16 +43,16 @@ for line in open('./Single_Lethality_Genes.txt', mode='r'):
     gene = split_line[0]
     lethality = split_line[1]
     #print "Lethality is " + lethality
-    if "inviable" in lethality:
+    if (lethality == "lethal"):
         for line in FUNC:
             tempFUNC = []
             if gene in line and line not in geneSeen:
                 geneSeen.append(line)
                 line = line.strip()
                 tempFUNC.append(str(line) + "\t1")
-                #print tempFUNC
+                print tempFUNC
                 newFUNC.append(tempFUNC)
-    if "viable" in lethality:
+    if (lethality == "viable"):
         for line in FUNC:
             tempFUNC = []
             if gene in line and line not in geneSeen:
@@ -61,12 +60,10 @@ for line in open('./Single_Lethality_Genes.txt', mode='r'):
                 line = line.replace('\n','')
                 tempFUNC.append(str(line) + "\t0")
 
-                #print tempFUNC
+                print tempFUNC
                 newFUNC.append(tempFUNC)
 
-        #print "Something"
-        #print tempFUNC
-#FUNCoutputfile.write("\n".join(newFUNC))
+
 
 
 for element in newFUNC:
@@ -104,7 +101,7 @@ writer = csv.writer(outputfile)
 
 for rows in inputfile:
 
-        if "viable" in str(rows[-1]) or "inviable" in str(rows[-1]):
+        if "viable" in str(rows[-1]) or "lethal" in str(rows[-1]):
 
             if "GO" in str(rows):
                 writer.writerow(rows)

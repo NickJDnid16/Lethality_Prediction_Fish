@@ -12,7 +12,7 @@ inputfile = open('./phenoGeneCleanData_fish.txt', mode='r')
 outputfile = open('./Lethal&Viable_Genes.txt', mode='w')
 
 for line in inputfile:
-    if "lethal" in line or "viable" in line:
+    if "lethal" in line or "viable" in line or "viability" in line:
         outputfile.write(line)
 
 inputfile.close()
@@ -67,21 +67,21 @@ inputfile = open('./Genes_With_All_Lethality.txt', mode='r')
 
 for line in inputfile:
     v = ",viable" in line
-    l = ",inviable" in line
+    vv = ",viability" in line
+    l = ",lethal" in line
 
-    if (l and v):
+    if (l and v or l and vv):
         print ("Ignoring Line")
-    elif "decreased" in line or "arrested" in line:
-        print ("Ignoring Line")
+
     else:
         line = line.rstrip()
         bits = line.split(',')
-        if(v):
+        if(v or vv):
             bit = bits[0]+",viable\n"
             print (bit)
             outputfile.write(bit)
         if(l):
-            bit = bits[0]+",inviable\n"
+            bit = bits[0]+",lethal\n"
             print (bit)
             outputfile.write(bit)
         if ((not l) and (not v)):
