@@ -31,7 +31,7 @@ def keep_columns(lst, func, headers=True):
 
 
 if __name__ == "__main__":
-    fn = "/home/mintvm/Dropbox/CURRENT/Worm/Worm.csv"
+    fn = "/home/novatech/Dropbox/FISH/Gene_ARFF.csv"
 
     with open(fn, "r") as csvf:
         rdr = csv.reader(csvf, delimiter=",")
