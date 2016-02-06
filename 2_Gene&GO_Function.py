@@ -14,9 +14,9 @@ geneAssociation = open('./gene_association.txt')
 
 
 for line in geneAssociation:
+    split_string = line.split("\t")
+    if(split_string[0] == "ZFIN"):#FlyBase = FB
 
-    if(line[0] == "ZFIN"):#FlyBase = FB
-        split_string = line.split("\t")
         genome = split_string [2]
         GO = split_string [4]
         dataMarker = split_string [6]
