@@ -12,7 +12,7 @@ inputfile = open('./phenoGeneCleanData_fish.txt', mode='r')
 outputfile = open('./Lethal&Viable_Genes.txt', mode='w')
 
 for line in inputfile:
-    if "lethal" in line or "viable" in line or "viability" in line or "dead" in line or "alive" in line:
+    if "lethal" in line or "viable" in line or "dead" in line or "alive" in line:
         outputfile.write(line)
 
 inputfile.close()
