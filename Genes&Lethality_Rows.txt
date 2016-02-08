@@ -1,0 +1,1634 @@
+abcc6a,dead
+abcc6b.2,dead
+ache,lethal (sensu genetics)
+ache,lethal (sensu genetics)
+ache,lethal (sensu genetics)
+ache,viability
+ache,lethal (sensu genetics)
+ache,lethal (sensu genetics)
+ache,lethal (sensu genetics)
+acvr1l,lethal (sensu genetics)
+acvr2aa,lethal (sensu genetics)
+acvr2aa,lethal (sensu genetics)
+acvrl1,viability
+adrb1,viability
+adrb3b,viability
+afp4,dead
+afp4,dead
+afp4,dead
+afp4,dead
+afp4,dead
+afp4,dead
+afp4,dead
+ahctf1,lethal (sensu genetics)
+akt2,dead
+akt2,dead
+alas2,viability
+aldh1a2,lethal (sensu genetics)
+ambra1a,dead
+ambra1a,dead
+ambra1b,dead
+ambra1b,dead
+aoi,lethal (sensu genetics)
+ap2a1,dead
+apc,dead
+apela,dead
+apex1,lethal (sensu genetics)
+aqb,lethal (sensu genetics)
+aqb,viability
+arhgef11,lethal (sensu genetics)
+arhgef7b,lethal (sensu genetics)
+arhgef7b,viability
+asm,dead
+atg5,viability
+atg5,viability
+atp13a2,dead
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,viability
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,viability
+atp1a1a.1,viability
+atp1a1a.1,viability
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,viability
+atp1a1a.1,lethal (sensu genetics)
+atp1a1a.1,viability
+atp1a1a.1,lethal (sensu genetics)
+atp2a1,lethal (sensu genetics)
+atp2a1,lethal (sensu genetics)
+atp2a1,viability
+atp2a1,lethal (sensu genetics)
+atp2a1,viability
+atp2a1,viability
+atp2a1,viability
+atp2a1,lethal (sensu genetics)
+atp2a1,viability
+atp2a1,viability
+atp2a1,lethal (sensu genetics)
+atp2a1,lethal (sensu genetics)
+atp2a1,lethal (sensu genetics)
+atp6ap1b,viability
+atp6v0ca,lethal (sensu genetics)
+atp6v0ca,viability
+atp6v0d1,lethal (sensu genetics)
+atp6v1e1b,dead
+atxn7,dead
+atxn7,dead
+aurkb,viability
+awa,lethal (sensu genetics)
+awa,viability
+axin1,lethal (sensu genetics)
+balh,lethal (sensu genetics)
+ban,lethal (sensu genetics)
+bch,lethal (sensu genetics)
+bch,viability
+bcl2l10,dead
+bib,lethal (sensu genetics)
+bib,viability
+birc5a,viability
+birc5b,dead
+blc,viability
+blc,lethal (sensu genetics)
+blc,lethal (sensu genetics)
+blc,viability
+blc,lethal (sensu genetics)
+blc,viability
+blr,viability
+blr,lethal (sensu genetics)
+blr,viability
+blr,lethal (sensu genetics)
+blr,viability
+blr,viability
+blr,viability
+blr,lethal (sensu genetics)
+blr,lethal (sensu genetics)
+blr,viability
+blr,lethal (sensu genetics)
+blr,lethal (sensu genetics)
+blr,lethal (sensu genetics)
+bmp2b,lethal (sensu genetics)
+bmp2b,viability
+bmp2b,lethal (sensu genetics)
+bmp2b,lethal (sensu genetics)
+bmp2b,lethal (sensu genetics)
+bmp7a,lethal (sensu genetics)
+bmpr1aa,dead
+bob,dead
+bob,lethal (sensu genetics)
+boc,lethal (sensu genetics)
+brd,viability
+brd,viability
+brd,lethal (sensu genetics)
+brd,lethal (sensu genetics)
+brd,viability
+brd,viability
+brd,lethal (sensu genetics)
+brd,viability
+brd,lethal (sensu genetics)
+brd,viability
+brd,viability
+brd,lethal (sensu genetics)
+brd,viability
+brd,lethal (sensu genetics)
+brd,lethal (sensu genetics)
+brd,lethal (sensu genetics)
+brd,viability
+brd,lethal (sensu genetics)
+bru,lethal (sensu genetics)
+bru,viability
+bst,viability
+bst,lethal (sensu genetics)
+bud31,viability
+buf,viability
+buf,lethal (sensu genetics)
+buf,lethal (sensu genetics)
+buf,lethal (sensu genetics)
+buf,lethal (sensu genetics)
+buf,viability
+buf,viability
+buf,viability
+buf,viability
+buf,lethal (sensu genetics)
+bxe,viability
+byp,lethal (sensu genetics)
+byp,viability
+byp,viability
+byp,lethal (sensu genetics)
+ca10a,dead
+ca10b,dead
+ca10b,dead
+ca8,dead
+cacna1ab,viability
+cacnb1,lethal (sensu genetics)
+cacnb1,viability
+cacnb4a,dead
+cacnb4a,dead
+cacnb4b,dead
+cacnb4b,dead
+cactin,viability
+cam,dead
+caspa,viability
+cc2d2a,lethal (sensu genetics)
+ccdc103,viability
+ccdc103,lethal (sensu genetics)
+ccdc40,viability
+ccdc40,viability
+ccdc40,viability
+ccdc40,lethal (sensu genetics)
+ccdc40,lethal (sensu genetics)
+ccdc40,lethal (sensu genetics)
+ccdc40,lethal (sensu genetics)
+ccdc40,lethal (sensu genetics)
+ccdc40,viability
+ccdc40,viability
+ccdc94,dead
+ccnb1,viability
+cco,viability
+cco,lethal (sensu genetics)
+cco,viability
+cco,lethal (sensu genetics)
+cd2ap,lethal (sensu genetics)
+cdc25b,lethal (sensu genetics)
+cdc25b,dead
+cdh1,lethal (sensu genetics)
+cdh1,lethal (sensu genetics)
+cdh1,lethal (sensu genetics)
+cdh1,lethal (sensu genetics)
+cdh2,viability
+cdh2,viability
+cdh2,viability
+cdh2,lethal (sensu genetics)
+cdh2,lethal (sensu genetics)
+cdh2,lethal (sensu genetics)
+cdh2,lethal (sensu genetics)
+cdh2,lethal (sensu genetics)
+cdipt,dead
+cdipt,dead
+cdk1,viability
+cdk5rap3,viability
+cdk5rap3,viability
+cdk5rap3,viability
+cdx4,lethal (sensu genetics)
+cdx4,viability
+cdx4,lethal (sensu genetics)
+celsr3,viability
+cenpl,viability
+cep120,dead
+cep290,dead
+chaf1b,lethal (sensu genetics)
+chata,lethal (sensu genetics)
+chata,viability
+chd,lethal (sensu genetics)
+chd,lethal (sensu genetics)
+chm,viability
+chm,viability
+chrna1,lethal (sensu genetics)
+chrna1,viability
+chrna1,lethal (sensu genetics)
+chrnd,lethal (sensu genetics)
+chrnd,viability
+chrnd,viability
+chrnd,viability
+chrnd,lethal (sensu genetics)
+chrnd,lethal (sensu genetics)
+chst11,lethal (sensu genetics)
+clasp1b,viability
+clp1,dead
+clp1,dead
+clx,lethal (sensu genetics)
+clx,viability
+coil,dead
+col17a1a,viability
+col17a1b,viability
+copa,lethal (sensu genetics)
+copa,lethal (sensu genetics)
+copa,viability
+copa,viability
+copa,lethal (sensu genetics)
+copa,viability
+copa,viability
+copa,lethal (sensu genetics)
+copa,lethal (sensu genetics)
+copa,viability
+copa,viability
+copa,lethal (sensu genetics)
+copb1,viability
+copb1,viability
+copb1,lethal (sensu genetics)
+copb1,lethal (sensu genetics)
+copb1,lethal (sensu genetics)
+copb1,viability
+copb1,viability
+copb1,viability
+copb1,viability
+copb1,lethal (sensu genetics)
+copb1,lethal (sensu genetics)
+copb1,lethal (sensu genetics)
+copb2,lethal (sensu genetics)
+copb2,lethal (sensu genetics)
+copb2,viability
+copb2,lethal (sensu genetics)
+copb2,lethal (sensu genetics)
+copb2,viability
+copb2,viability
+cot,lethal (sensu genetics)
+cot,lethal (sensu genetics)
+cot,viability
+cot,viability
+cox5aa,lethal (sensu genetics)
+cox5ab,lethal (sensu genetics)
+csad,dead
+csad,dead
+csad,dead
+ctd,lethal (sensu genetics)
+ctd,viability
+ctd,viability
+ctd,viability
+ctd,lethal (sensu genetics)
+ctd,lethal (sensu genetics)
+ctnnd1,dead
+ctsd,dead
+cx36.7,lethal (sensu genetics)
+cyfip2,lethal (sensu genetics)
+cyfip2,lethal (sensu genetics)
+cyfip2,viability
+cyfip2,viability
+cyp11a1,dead
+cyp11a2,dead
+cyp26b1,lethal (sensu genetics)
+cyt1,dead
+dag1,dead
+dbt,viability
+dbt,lethal (sensu genetics)
+dbt,viability
+dctn1a,lethal (sensu genetics)
+dctn2,lethal (sensu genetics)
+ddb1,dead
+ddx18,dead
+ddx19,viability
+derl1,dead
+dfd,lethal (sensu genetics)
+dharma,lethal (sensu genetics)
+dhfr,viability
+dhfr,viability
+dhx16,viability
+dhx8,dead
+dhx8,dead
+dicer1,dead
+dim,viability
+dim,lethal (sensu genetics)
+disp1,viability
+disp1,lethal (sensu genetics)
+disp1,viability
+disp1,lethal (sensu genetics)
+disp1,lethal (sensu genetics)
+disp1,lethal (sensu genetics)
+disp1,viability
+disp1,viability
+disp1,viability
+disp1,lethal (sensu genetics)
+dly,lethal (sensu genetics)
+dml,semi-viable
+dnaaf1,lethal (sensu genetics)
+dnm2a,dead
+dnm2a,dead
+dnmt3bb.2,dead
+doc,viability
+doc,lethal (sensu genetics)
+doc,viability
+doc,lethal (sensu genetics)
+doc,lethal (sensu genetics)
+doy,dead
+draxin,dead
+draxin,dead
+dry,viability
+dsc2l,dead
+dsg2.1,dead
+dtl,lethal (sensu genetics)
+dtl,viability
+dul,viability
+dul,lethal (sensu genetics)
+dus,viability
+dus,lethal (sensu genetics)
+dzip1,lethal (sensu genetics)
+dzip1,lethal (sensu genetics)
+ebna1bp2,viability
+ect2,viability
+ect2,viability
+edi,lethal (sensu genetics)
+edi,lethal (sensu genetics)
+edi,lethal (sensu genetics)
+edi,lethal (sensu genetics)
+edi,viability
+edi,lethal (sensu genetics)
+edi,lethal (sensu genetics)
+edi,viability
+edi,viability
+edi,lethal (sensu genetics)
+edi,viability
+edi,lethal (sensu genetics)
+edi,lethal (sensu genetics)
+edi,viability
+edi,viability
+edi,lethal (sensu genetics)
+edi,lethal (sensu genetics)
+edn1,lethal (sensu genetics)
+eef1g,viability
+eftud2,dead
+eif2s3,viability
+eif3ba,dead
+eif3c,viability
+eif3d,viability
+eif3g,viability
+ele,lethal (sensu genetics)
+ele,viability
+enosf1,viability
+enosf1,viability
+entpd5a,dead
+epb41b,lethal (sensu genetics)
+epb41b,viability
+epo,lethal (sensu genetics)
+eps,viability
+erp44,dead
+esco2,viability
+espl1,lethal (sensu genetics)
+esr2a,viability
+esr2a,dead
+etfa,dead
+etfa,dead
+ewsr1a,lethal (sensu genetics)
+ewsr1b,lethal (sensu genetics)
+exoc2,viability
+exosc3,dead
+exp,lethal (sensu genetics)
+exp,viability
+ext2,lethal (sensu genetics)
+ext2,dead
+ext2,lethal (sensu genetics)
+ext2,lethal (sensu genetics)
+ext2,lethal (sensu genetics)
+ext2,viability
+ext2,dead
+ext2,viability
+ext2,viability
+extl3,lethal (sensu genetics)
+extl3,lethal (sensu genetics)
+extl3,lethal (sensu genetics)
+extl3,viability
+extl3,viability
+extl3,viability
+extl3,lethal (sensu genetics)
+extl3,viability
+extl3,lethal (sensu genetics)
+extl3,lethal (sensu genetics)
+extl3,lethal (sensu genetics)
+extl3,viability
+extl3,viability
+extl3,lethal (sensu genetics)
+eya1,lethal (sensu genetics)
+eya1,lethal (sensu genetics)
+eya1,viability
+eya1,viability
+eya1,lethal (sensu genetics)
+eya1,viability
+eya1,viability
+eya1,lethal (sensu genetics)
+fac,lethal (sensu genetics)
+fad,viability
+fad,viability
+fad,lethal (sensu genetics)
+fad,viability
+fad,lethal (sensu genetics)
+fad,lethal (sensu genetics)
+fad,viability
+fad,lethal (sensu genetics)
+fad,lethal (sensu genetics)
+fam65b,dead
+fam65b,dead
+fapz,viability
+fapz,viability
+fapz,lethal (sensu genetics)
+fapz,lethal (sensu genetics)
+fbn2b,lethal (sensu genetics)
+fbxo5,lethal (sensu genetics)
+fbxo5,viability
+fbxo5,lethal (sensu genetics)
+fbxw7,viability
+fech,lethal (sensu genetics)
+fezf2,dead
+fgf2,lethal (sensu genetics)
+fgf8a,lethal (sensu genetics)
+fh,dead
+fkrp,lethal (sensu genetics)
+fkrp,dead
+fktn,dead
+flrt1b,viability
+flvcr1,dead
+flvcr1,dead
+fn1a,viability
+fn1a,lethal (sensu genetics)
+fn1a,viability
+fn1a,lethal (sensu genetics)
+foxa2,viability
+foxa2,lethal (sensu genetics)
+foxh1,dead
+foxh1,dead
+foxh1,dead
+foxh1,dead
+foxh1,lethal (sensu genetics)
+foxi1,viability
+foxi1,dead
+foxm1,viability
+foxn4,lethal (sensu genetics)
+foxn4,viability
+frk,lethal (sensu genetics)
+fro,viability
+fro,lethal (sensu genetics)
+ftt,dead
+fub,viability
+fub,lethal (sensu genetics)
+fub,viability
+fub,lethal (sensu genetics)
+fub,lethal (sensu genetics)
+fub,lethal (sensu genetics)
+ful,lethal (sensu genetics)
+ful,lethal (sensu genetics)
+ful,lethal (sensu genetics)
+furina,viability
+furina,lethal (sensu genetics)
+furina,lethal (sensu genetics)
+furina,viability
+gam,viability
+gam,lethal (sensu genetics)
+gart,dead
+gata1a,dead
+gata5,lethal (sensu genetics)
+gata5,viability
+gdf6a,dead
+gdf6a,lethal (sensu genetics)
+ger,lethal (sensu genetics)
+ger,viability
+get,viability
+get,lethal (sensu genetics)
+get,lethal (sensu genetics)
+ghl,lethal (sensu genetics)
+ghl,lethal (sensu genetics)
+ghl,lethal (sensu genetics)
+git2a,viability
+gli1,lethal (sensu genetics)
+gli1,lethal (sensu genetics)
+gli1,viability
+gli1,viability
+gli1,lethal (sensu genetics)
+gli2a,lethal (sensu genetics)
+gli2a,lethal (sensu genetics)
+glrbb,viability
+glrbb,lethal (sensu genetics)
+glrbb,viability
+glrbb,lethal (sensu genetics)
+glrbb,lethal (sensu genetics)
+glrbb,lethal (sensu genetics)
+glrbb,viability
+glrbb,viability
+glrbb,viability
+glrbb,viability
+glrbb,lethal (sensu genetics)
+glrbb,viability
+glrbb,lethal (sensu genetics)
+glrbb,lethal (sensu genetics)
+glrx5,viability
+gly,dead
+gmds,dead
+gnl2,dead
+gnl3,dead
+gnl3,dead
+gnl3l,dead
+gon4l,lethal (sensu genetics)
+gon4l,viability
+gon4l,viability
+gre,viability
+gre,lethal (sensu genetics)
+gria3a,dead
+ham,lethal (sensu genetics)
+ham,lethal (sensu genetics)
+hat,viability
+hat,lethal (sensu genetics)
+haus3,dead
+hel,viability
+hel,lethal (sensu genetics)
+hen,lethal (sensu genetics)
+hen,lethal (sensu genetics)
+hen,viability
+hen,viability
+hen,viability
+hen,lethal (sensu genetics)
+her,viability
+her,lethal (sensu genetics)
+hhip,lethal (sensu genetics)
+hhip,lethal (sensu genetics)
+hhip,lethal (sensu genetics)
+hkn,viability
+hkn,lethal (sensu genetics)
+hmgcrb,lethal (sensu genetics)
+hot,lethal (sensu genetics)
+hot,lethal (sensu genetics)
+hot,lethal (sensu genetics)
+hot,lethal (sensu genetics)
+hot,lethal (sensu genetics)
+hot,viability
+hot,viability
+hsd,viability
+hsd,viability
+hsp90aa1.1,lethal (sensu genetics)
+hsp90aa1.1,viability
+hsp90aa1.1,viability
+hsp90aa1.1,lethal (sensu genetics)
+inf2,viability
+irx4a,dead
+isl1,dead
+ivy,viability
+ivy,lethal (sensu genetics)
+ivy,viability
+ivy,lethal (sensu genetics)
+jag1b,dead
+jam,viability
+jam,lethal (sensu genetics)
+jas,dead
+kap,lethal (sensu genetics)
+kas,viability
+kas,lethal (sensu genetics)
+kcnh1a,dead
+kcnh1a,dead
+kcnh1a,dead
+kcnh1b,dead
+kcnh1b,dead
+kcnh1b,dead
+kcnh6a,lethal (sensu genetics)
+kcnh6a,lethal (sensu genetics)
+kcnh6a,semi-viable
+kei,viability
+kei,lethal (sensu genetics)
+kei,viability
+kei,lethal (sensu genetics)
+kei,lethal (sensu genetics)
+kei,viability
+kei,viability
+kei,lethal (sensu genetics)
+kei,viability
+kei,lethal (sensu genetics)
+kera,dead
+kif1b,lethal (sensu genetics)
+kif23,viability
+kif3b,lethal (sensu genetics)
+klhl41a,dead
+klhl41b,dead
+kmt2a,dead
+kmt2a,dead
+knz,dead
+koi,viability
+koi,lethal (sensu genetics)
+kon,lethal (sensu genetics)
+kon,viability
+kri1,dead
+krit1,lethal (sensu genetics)
+krit1,lethal (sensu genetics)
+krit1,viability
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,lethal (sensu genetics)
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama1,viability
+lama2,viability
+lama5,lethal (sensu genetics)
+lamb1a,lethal (sensu genetics)
+lamb1a,lethal (sensu genetics)
+lamb1a,viability
+lamb1a,viability
+lamb1a,viability
+lamb1a,lethal (sensu genetics)
+lamb1a,lethal (sensu genetics)
+lamb1a,lethal (sensu genetics)
+lamb1a,viability
+lamb1a,lethal (sensu genetics)
+lamb1a,lethal (sensu genetics)
+lamb1a,viability
+lamb1a,viability
+lamb1a,viability
+lamb1a,lethal (sensu genetics)
+lamb1a,lethal (sensu genetics)
+lamb2,viability
+lamb2,viability
+lamb2,lethal (sensu genetics)
+lamb2,viability
+lamb2,lethal (sensu genetics)
+lamb2,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,viability
+lamc1,lethal (sensu genetics)
+lamc1,viability
+lamc1,viability
+lamc1,viability
+lamc1,viability
+lamc1,viability
+lamc1,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,viability
+lamc1,viability
+lamc1,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,lethal (sensu genetics)
+lamc1,viability
+lamc1,lethal (sensu genetics)
+lamc1,viability
+leg,viability
+leg,lethal (sensu genetics)
+lhb,dead
+lhb,semi-lethal (sensu genetics)
+lhb,semi-lethal (sensu genetics)
+lin28a,dead
+lin28b,dead
+llg,lethal (sensu genetics)
+llgl1,viability
+llgl2,dead
+llgl2,lethal (sensu genetics)
+lmln,dead
+lmln,dead
+lmln,viability
+lmln,viability
+loa,lethal (sensu genetics)
+los,lethal (sensu genetics)
+los,viability
+loxa,lethal (sensu genetics)
+lrrc10,dead
+lyo,dead
+lyve1a,dead
+lztfl1,viability
+mapk3,lethal (sensu genetics)
+mapk3,lethal (sensu genetics)
+marcksa,dead
+marcksa,dead
+marcksa,dead
+marcksa,dead
+marcksa,dead
+marcksa,dead
+marcksa,dead
+marcksa,dead
+marcksb,dead
+marcksb,dead
+marcksb,dead
+marcksb,dead
+marcksb,dead
+marcksb,dead
+marcksb,dead
+marcksb,dead
+mdm2,lethal (sensu genetics)
+mdm2,lethal (sensu genetics)
+med12,dead
+med12,dead
+med14,lethal (sensu genetics)
+med14,lethal (sensu genetics)
+mef2ca,viability
+mef2ca,lethal (sensu genetics)
+meox1,lethal (sensu genetics)
+mep1b,dead
+mfsd2aa,dead
+mfsd2aa,dead
+mfsd2aa,dead
+mfsd2aa,dead
+mfsd2ab,dead
+mgaa,dead
+mgaa,dead
+mgaa,dead
+mib1,dead
+mib1,lethal (sensu genetics)
+mir,viability
+mir,lethal (sensu genetics)
+mir125b-1,dead
+mlh1,brood viability
+mlh1,lethal (sensu genetics)
+mlk,lethal (sensu genetics)
+mlk,viability
+mlk,viability
+mlk,lethal (sensu genetics)
+mlk,lethal (sensu genetics)
+mlk,viability
+mmp2,viability
+mmp2,viability
+mpi,dead
+msi1,viability
+mtc,viability
+mtc,lethal (sensu genetics)
+mtp,dead
+mur,lethal (sensu genetics)
+musk,viability
+musk,lethal (sensu genetics)
+myb,dead
+mybl2b,viability
+mybl2b,lethal (sensu genetics)
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,viability
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+mycbp2,viability
+mycbp2,lethal (sensu genetics)
+mycbp2,lethal (sensu genetics)
+myf5,lethal (sensu genetics)
+myh6,viability
+myh6,lethal (sensu genetics)
+myh6,lethal (sensu genetics)
+myh6,lethal (sensu genetics)
+mylk3,lethal (sensu genetics)
+myo5b,dead
+myo5b,dead
+myo5b,dead
+naca,dead
+naca,viability
+ncapg,lethal (sensu genetics)
+ndc80,viability
+ndr2,lethal (sensu genetics)
+ndr2,lethal (sensu genetics)
+ndr2,viability
+ndr2,lethal (sensu genetics)
+ndr2,lethal (sensu genetics)
+neb,viability
+neo1a,viability
+nfixa,dead
+nifk,viability
+niv,lethal (sensu genetics)
+nkap,viability
+nob,lethal (sensu genetics)
+nob,viability
+nop10,dead
+noto,lethal (sensu genetics)
+noto,viability
+noto,lethal (sensu genetics)
+noto,viability
+noto,lethal (sensu genetics)
+noto,lethal (sensu genetics)
+npc1,viability
+npc1,dead
+nphs2,lethal (sensu genetics)
+npnt,dead
+nsfa,lethal (sensu genetics)
+nuf2,viability
+nuf2,viability
+nxf1,viability
+ocrl,semi-viable
+ogr,lethal (sensu genetics)
+oln,dead
+opa1,dead
+otop1,viability
+otop1,lethal (sensu genetics)
+ott,lethal (sensu genetics)
+ott,dead
+ott,viability
+pabpc1a,viability
+pacs1a,semi-lethal (sensu genetics)
+pacs2,semi-lethal (sensu genetics)
+pafah1b1a,lethal (sensu genetics)
+pafah1b1a,lethal (sensu genetics)
+pafah1b1b,lethal (sensu genetics)
+paics,dead
+pak1,semi-lethal (sensu genetics)
+pard3,semi-lethal (sensu genetics)
+parla,dead
+parlb,dead
+parp3,dead
+parp3,dead
+pax2a,viability
+pax2a,viability
+pax2a,lethal (sensu genetics)
+pax2a,viability
+pax2a,lethal (sensu genetics)
+pax2a,lethal (sensu genetics)
+pax2a,viability
+pax2a,lethal (sensu genetics)
+pax2a,lethal (sensu genetics)
+pax2a,lethal (sensu genetics)
+pch,viability
+pch,lethal (sensu genetics)
+pcsk7,dead
+pcsk7,dead
+pcsk7,dead
+pcsk7,dead
+pcsk9,dead
+pdcd10b,dead
+pdlim7,lethal (sensu genetics)
+pdlim7,semi-lethal (sensu genetics)
+pek,lethal (sensu genetics)
+pek,viability
+pep,lethal (sensu genetics)
+pep,viability
+pep,lethal (sensu genetics)
+pep,viability
+phox2a,dead
+phox2a,dead
+phox2a,dead
+piezo1,dead
+pigk,lethal (sensu genetics)
+pigk,viability
+pigu,alive
+pink1,dead
+pio,lethal (sensu genetics)
+pio,viability
+pio,viability
+pio,lethal (sensu genetics)
+pio,viability
+pio,lethal (sensu genetics)
+pio,viability
+pio,lethal (sensu genetics)
+pio,viability
+pio,lethal (sensu genetics)
+pip,viability
+pip,lethal (sensu genetics)
+pip4k2aa,viability
+piru,lethal (sensu genetics)
+piru,viability
+pitx2,viability
+pkd2,viability
+pkd2,lethal (sensu genetics)
+pkd2,lethal (sensu genetics)
+pkd2,viability
+pkd2,lethal (sensu genetics)
+pkd2,lethal (sensu genetics)
+pknox1.1,viability
+pknox1.1,viability
+plcb3,viability
+plcb3,lethal (sensu genetics)
+plcb3,lethal (sensu genetics)
+plcb3,viability
+plekhg5a,viability
+plekhg5a,viability
+plk,lethal (sensu genetics)
+plk,viability
+plk,viability
+plk,lethal (sensu genetics)
+plod3,viability
+plod3,viability
+plod3,lethal (sensu genetics)
+plod3,lethal (sensu genetics)
+plod3,viability
+plod3,lethal (sensu genetics)
+plrg1,viability
+pls3,lethal (sensu genetics)
+plt,lethal (sensu genetics)
+pmaip1,dead
+pmaip1,dead
+poc5,dead
+pol,lethal (sensu genetics)
+pol,lethal (sensu genetics)
+pol,viability
+pol,viability
+pol,viability
+pol,lethal (sensu genetics)
+pola1,viability
+pold1,viability
+pold1,lethal (sensu genetics)
+pold1,lethal (sensu genetics)
+pold1,viability
+pold1,lethal (sensu genetics)
+pold1,lethal (sensu genetics)
+pold1,viability
+pold1,viability
+pold1,lethal (sensu genetics)
+pole2,viability
+polr1a,viability
+polr1a,dead
+polr2b,viability
+polr2d,viability
+polr2d,lethal (sensu genetics)
+polr2gl,lethal (sensu genetics)
+polr2gl,viability
+pomgnt2,dead
+pomk,dead
+ppp1r12a,viability
+ppp1r12a,viability
+prdm1a,viability
+prdm1a,lethal (sensu genetics)
+prkcg,viability
+prpf31,dead
+prpf4,dead
+prpf4,dead
+psm10,lethal (sensu genetics)
+psm11,lethal (sensu genetics)
+psm2,lethal (sensu genetics)
+psm5,lethal (sensu genetics)
+psm6,lethal (sensu genetics)
+psm7,lethal (sensu genetics)
+psm8,lethal (sensu genetics)
+psm9,lethal (sensu genetics)
+psoriasis,lethal (sensu genetics)
+ptch1,dead
+ptch1,lethal (sensu genetics)
+ptges,viability
+ptges,viability
+ptgs1,viability
+ptpra,dead
+pun,viability
+pun,lethal (sensu genetics)
+pun,lethal (sensu genetics)
+pun,lethal (sensu genetics)
+pun,viability
+pun,lethal (sensu genetics)
+pun,viability
+pun,viability
+pup,viability
+pup,lethal (sensu genetics)
+pup,lethal (sensu genetics)
+pup,lethal (sensu genetics)
+pup,viability
+pup,lethal (sensu genetics)
+pup,viability
+pup,viability
+pup,lethal (sensu genetics)
+pup,viability
+puz,viability
+puz,lethal (sensu genetics)
+pwp2h,dead
+qam,lethal (sensu genetics)
+qam,viability
+qam,lethal (sensu genetics)
+qam,lethal (sensu genetics)
+qam,viability
+qam,viability
+qam,viability
+qam,lethal (sensu genetics)
+qam,lethal (sensu genetics)
+qam,viability
+qam,lethal (sensu genetics)
+qam,viability
+quh,viability
+quh,lethal (sensu genetics)
+rabep1,lethal (sensu genetics)
+rad21a,lethal (sensu genetics)
+rad21a,viability
+rapsn,lethal (sensu genetics)
+rapsn,lethal (sensu genetics)
+rapsn,viability
+rapsn,lethal (sensu genetics)
+rapsn,viability
+rb1,viability
+rb1,viability
+rb1,lethal (sensu genetics)
+rb1,lethal (sensu genetics)
+rbbp6,viability
+rbm22,viability
+rbm24a,viability
+rbp4,lethal (sensu genetics)
+rela,viability
+rela,viability
+rerea,lethal (sensu genetics)
+rerea,viability
+rerea,lethal (sensu genetics)
+rest,dead
+rest,semi-viable
+rest,semi-viable
+rest,semi-viable
+rnf111,dead
+rnf111,dead
+rnf121,lethal (sensu genetics)
+rnf121,viability
+rnf121,dead
+rnf121,dead
+rnf170,dead
+rny1,dead
+robo3,lethal (sensu genetics)
+robo3,viability
+robo3,viability
+robo3,viability
+robo3,lethal (sensu genetics)
+robo3,lethal (sensu genetics)
+roc,viability
+roc,lethal (sensu genetics)
+rpa1,viability
+rpa1,viability
+rpl11,dead
+rpl11,viable
+rpl12,viability
+rpl14,viability
+rpl19,viability
+rpl35,viability
+rpl36a,viability
+rpl36a,viability
+rps15a,viability
+rps15a,viability
+rps29,viability
+rps3a,dead
+rps3a,viability
+rps7,semi-viable
+rpz,dead
+rrm2,viability
+rrp1,viability
+ruz,lethal (sensu genetics)
+ruz,viability
+s1pr2,lethal (sensu genetics)
+s1pr2,lethal (sensu genetics)
+sae1,dead
+sah,viability
+sah,lethal (sensu genetics)
+sam,viability
+sam,lethal (sensu genetics)
+sart3,lethal (sensu genetics)
+sart3,dead
+sart3,dead
+sart3,dead
+satb2,dead
+sbd,lethal (sensu genetics)
+sbd,viability
+sbds,dead
+sbl,lethal (sensu genetics)
+sch,lethal (sensu genetics)
+scn1lab,dead
+scn8aa,dead
+scn8aa,dead
+sdcbp2,dead
+sec23b,lethal (sensu genetics)
+sec63,lethal (sensu genetics)
+sen,lethal (sensu genetics)
+sen,viability
+sept9a,viability
+sept9a,viability
+ser,lethal (sensu genetics)
+sf3a3,viability
+sf3b1,viability
+sf3b4,viability
+sf3b5,viability
+sfd,lethal (sensu genetics)
+sfpq,lethal (sensu genetics)
+sfpq,lethal (sensu genetics)
+sfpq,viability
+sfpq,viability
+shank3a,dead
+shha,lethal (sensu genetics)
+shha,viability
+si:ch211-114c12.2,viability
+sic,viability
+sic,lethal (sensu genetics)
+sic,viability
+sic,lethal (sensu genetics)
+sin,lethal (sensu genetics)
+sin,lethal (sensu genetics)
+sin,viability
+sin,viability
+sin,viability
+sin,lethal (sensu genetics)
+sin,lethal (sensu genetics)
+sky,viability
+sky,lethal (sensu genetics)
+sla,viability
+sla,viability
+sla,lethal (sensu genetics)
+sla,lethal (sensu genetics)
+sla,lethal (sensu genetics)
+sla,viability
+slc12a2,lethal (sensu genetics)
+slc12a2,viability
+slc12a2,lethal (sensu genetics)
+slc12a2,viability
+slc12a2,lethal (sensu genetics)
+slc12a2,lethal (sensu genetics)
+slc17a6b,viability
+slc17a6b,lethal (sensu genetics)
+slc1a2b,lethal (sensu genetics)
+slc1a2b,viability
+slc25a1a,dead
+slc2a2,dead
+slc2a2,dead
+slc35b2,lethal (sensu genetics)
+slc35b2,viability
+slc39a7,dead
+slc4a1a,viability
+slc4a1a,viability
+slc6a6b,lethal (sensu genetics)
+slc6a9,viability
+slc6a9,viability
+slc6a9,lethal (sensu genetics)
+slc6a9,lethal (sensu genetics)
+slc6a9,viability
+slc6a9,lethal (sensu genetics)
+slc8a1a,lethal (sensu genetics)
+slc8a1a,lethal (sensu genetics)
+slc8a1a,viability
+slc8a1a,viability
+slc8a1a,lethal (sensu genetics)
+slc8a1a,lethal (sensu genetics)
+slc8a1a,lethal (sensu genetics)
+slc8a1a,lethal (sensu genetics)
+slc8a1a,lethal (sensu genetics)
+slh,lethal (sensu genetics)
+sll,lethal (sensu genetics)
+sll,viability
+slm,lethal (sensu genetics)
+slm,lethal (sensu genetics)
+slm,viability
+slm,viability
+slm,lethal (sensu genetics)
+slm,viability
+slp,viability
+slp,lethal (sensu genetics)
+slt,lethal (sensu genetics)
+slt,viability
+sltn,viability
+sltn,lethal (sensu genetics)
+slw,lethal (sensu genetics)
+slw,viability
+smad5,viability
+smad5,lethal (sensu genetics)
+smad5,viability
+smad5,lethal (sensu genetics)
+smad5,lethal (sensu genetics)
+smad5,lethal (sensu genetics)
+smad5,viability
+smad5,lethal (sensu genetics)
+smarca4a,viability
+smarca4a,viability
+smc1al,lethal (sensu genetics)
+smc1al,viability
+sml,lethal (sensu genetics)
+sml,lethal (sensu genetics)
+sml,viability
+sml,viability
+smn1,lethal (sensu genetics)
+smn1,dead
+smn1,lethal (sensu genetics)
+smn1,lethal (sensu genetics)
+smn1,lethal (sensu genetics)
+smo,lethal (sensu genetics)
+smo,viability
+sne,viability
+sne,lethal (sensu genetics)
+snrnp70,viability
+snrpd1,viability
+snrpf,viability
+snt,viability
+snt,lethal (sensu genetics)
+snw1,viability
+sox10,lethal (sensu genetics)
+sox10,viability
+sox10,lethal (sensu genetics)
+sox10,dead
+sox10,lethal (sensu genetics)
+sox11a,lethal (sensu genetics)
+sox11b,lethal (sensu genetics)
+sox32,lethal (sensu genetics)
+sox32,viability
+sox9a,lethal (sensu genetics)
+sox9a,lethal (sensu genetics)
+sparc,lethal (sensu genetics)
+sparc,lethal (sensu genetics)
+spaw,semi-viable
+spb,lethal (sensu genetics)
+spb,lethal (sensu genetics)
+spb,lethal (sensu genetics)
+spct,lethal (sensu genetics)
+spct,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,viability
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spi,lethal (sensu genetics)
+spna2,lethal (sensu genetics)
+spns1,viability
+spns1,viability
+spns1,lethal (sensu genetics)
+spok,lethal (sensu genetics)
+stb,lethal (sensu genetics)
+stb,viability
+ste,viability
+ste,lethal (sensu genetics)
+sth,lethal (sensu genetics)
+sth,viability
+sth,lethal (sensu genetics)
+sth,viability
+sth,lethal (sensu genetics)
+sth,viability
+stil,lethal (sensu genetics)
+stil,lethal (sensu genetics)
+stk11,viability
+stk11,viability
+str,viability
+str,lethal (sensu genetics)
+stw,lethal (sensu genetics)
+stw,viability
+sug,lethal (sensu genetics)
+sug,viability
+supt5h,dead
+surf1,lethal (sensu genetics)
+suz12a,viability
+swap70b,dead
+syf2,viability
+syngap1b,dead
+synpo2la,lethal (sensu genetics)
+synpo2lb,lethal (sensu genetics)
+ta,lethal (sensu genetics)
+ta,viability
+ta,lethal (sensu genetics)
+ta,lethal (sensu genetics)
+ta,lethal (sensu genetics)
+ta,lethal (sensu genetics)
+tan,viability
+tan,lethal (sensu genetics)
+tan,lethal (sensu genetics)
+tan,viability
+taz,viability
+taz,viability
+tbx1,viability
+tbx1,lethal (sensu genetics)
+tbx1,viability
+tbx1,viability
+tbx1,lethal (sensu genetics)
+tbx1,viability
+tbx16,lethal (sensu genetics)
+tbx16,viability
+tbx16,viability
+tbx16,lethal (sensu genetics)
+tbx16,lethal (sensu genetics)
+tbx2b,viability
+tbx5a,semi-lethal (sensu genetics)
+tbx5a,dead
+tcf7l2,lethal (sensu genetics)
+tcf7l2,lethal (sensu genetics)
+tdgf1,lethal (sensu genetics)
+tdgf1,lethal (sensu genetics)
+terfa,viability
+tert,viability
+tert,viability
+tert,viability
+tert,viability
+tfap2a,lethal (sensu genetics)
+tfr1a,viability
+tfr1a,viability
+tfr1b,viability
+tia1l,dead
+ticrr,dead
+ticrr,dead
+ticrr,viability
+tig,lethal (sensu genetics)
+tig,viability
+tin,lethal (sensu genetics)
+tin,viability
+tip,lethal (sensu genetics)
+tll1,viability
+tll1,lethal (sensu genetics)
+tll1,viability
+tll1,lethal (sensu genetics)
+tll1,lethal (sensu genetics)
+tll1,lethal (sensu genetics)
+tll1,lethal (sensu genetics)
+tll1,viability
+tll1,viability
+tll1,lethal (sensu genetics)
+tll1,viability
+tll1,lethal (sensu genetics)
+tll1,lethal (sensu genetics)
+tll1,viability
+tmprss4a,viability
+tnd,viability
+tnd,lethal (sensu genetics)
+tnd,lethal (sensu genetics)
+tnd,viability
+tnnt2a,lethal (sensu genetics)
+tnnt2a,lethal (sensu genetics)
+tod,lethal (sensu genetics)
+tod,viability
+top2a,viability
+top2a,viability
+top3a,dead
+tph1a,dead
+tpp1,dead
+trappc11,dead
+trim25l,viability
+trim33,lethal (sensu genetics)
+trim33,lethal (sensu genetics)
+trim33,viability
+trim33,viability
+trim33,viability
+trim33,viability
+trim33,lethal (sensu genetics)
+trim33,lethal (sensu genetics)
+trim33,lethal (sensu genetics)
+trim33,lethal (sensu genetics)
+trim33,viability
+trim33,viability
+trim33,lethal (sensu genetics)
+trim33,lethal (sensu genetics)
+trl,lethal (sensu genetics)
+trp,lethal (sensu genetics)
+tsc2,viability
+tsen54,dead
+ttpa,dead
+tuba1a,dead
+tuba1a,viability
+tuba1a,viability
+tuba1a,dead
+tur,lethal (sensu genetics)
+tur,viability
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,viability
+tur,viability
+tur,viability
+tur,lethal (sensu genetics)
+tur,viability
+tur,viability
+tur,viability
+tur,viability
+tur,lethal (sensu genetics)
+tur,viability
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,viability
+tur,viability
+tur,viability
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,viability
+tur,viability
+tur,viability
+tur,lethal (sensu genetics)
+tur,viability
+tur,viability
+tur,viability
+tur,viability
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,viability
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tur,lethal (sensu genetics)
+tyr,semi-viable
+u2af1,viability
+uhrf1,lethal (sensu genetics)
+unc45a,viability
+unc45a,lethal (sensu genetics)
+unga,dead
+unm_ta53b,viability
+unm_ta53b,viability
+unm_tc226c,viability
+unm_tc244d,viability
+unm_tc246c,viability
+unm_tc319,viability
+unm_tf244,viability
+unm_tf41b,viability
+unm_tf47,viability
+unm_tft11,dead
+unm_tft12,dead
+unm_tft130,dead
+unm_tft131,dead
+unm_tft18,dead
+unm_tft3,dead
+unm_tft30,dead
+unm_tft32,dead
+unm_tft48,dead
+unm_tft56,dead
+unm_tft60,dead
+unm_tft7,dead
+unm_tft75,dead
+unm_tft8,dead
+unm_tft83,dead
+unm_tft85,dead
+unm_tft91,dead
+unm_tft93,dead
+unm_tg280d,viability
+unm_th242f,viability
+unm_tj20a,viability
+unm_tj20c,viability
+unm_tk219c,viability
+unm_tk259,viability
+unm_tk34b,viability
+unm_tk64,viability
+unm_tl226b,viability
+unm_tm110a,viability
+unm_tm339,viability
+unm_tm97d,viability
+unm_tn14,viability
+unm_to2a,viability
+unm_tp94g,viability
+unm_tq221b,viability
+unm_ts299a,viability
+unm_tt215,viability
+unm_tu13,viability
+unm_tu227,viability
+unm_tu46,viability
+unm_tw222,viability
+unm_ty204,viability
+unm_tz272,viability
+unm_tz309,viability
+urod,lethal (sensu genetics)
+uspl1,viability
+utp11l,viability
+van,lethal (sensu genetics)
+van,viability
+vangl2,lethal (sensu genetics)
+vangl2,lethal (sensu genetics)
+vangl2,lethal (sensu genetics)
+vangl2,viability
+vdr,dead
+vic,lethal (sensu genetics)
+vic,viability
+viper,viability
+viper,lethal (sensu genetics)
+vps51,dead
+vps51,viability
+way,viability
+way,lethal (sensu genetics)
+way,lethal (sensu genetics)
+way,viability
+wdr43,viability
+wdr55,lethal (sensu genetics)
+web,lethal (sensu genetics)
+wee1,viability
+wei,viability
+wei,lethal (sensu genetics)
+win,lethal (sensu genetics)
+win,viability
+wir,lethal (sensu genetics)
+wir,viability
+wir,lethal (sensu genetics)
+wir,viability
+wnt5b,lethal (sensu genetics)
+wnt5b,viability
+wnt5b,lethal (sensu genetics)
+wnt5b,viability
+wnt5b,lethal (sensu genetics)
+wnt5b,lethal (sensu genetics)
+wnt5b,viability
+wnt5b,lethal (sensu genetics)
+wnt8a,dead
+wnt8a,dead
+wnt8a,dead
+wnt8a,dead
+woe,viability
+wsh,lethal (sensu genetics)
+wsh,viability
+wsh,viability
+wsh,viability
+wsh,lethal (sensu genetics)
+wsh,viability
+wsh,lethal (sensu genetics)
+wsh,lethal (sensu genetics)
+wt1a,lethal (sensu genetics)
+wup,lethal (sensu genetics)
+wup,viability
+yug,lethal (sensu genetics)
+zgc:100846,dead
+zgc:100846,dead
+zgc:92360,dead
+zin,lethal (sensu genetics)
+ziz,viability
+ziz,viability
+ziz,lethal (sensu genetics)
+ziz,lethal (sensu genetics)
+znf148,lethal (sensu genetics)
+znf148,lethal (sensu genetics)
+znf574,dead
+zom,lethal (sensu genetics)
+zom,lethal (sensu genetics)
+zom,lethal (sensu genetics)
