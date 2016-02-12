@@ -67,20 +67,19 @@ inputfile = open('./Genes_With_All_Lethality.txt', mode='r')
 essOutputfile = open('./Lethal_Fish.txt', mode='w')
 for line in inputfile:
     v = ",viable" in line
-    vv = ",viability" in line
     a = ",alive" in line
     l = ",lethal" in line
     d = ",dead" in line
 
 
-    if (l or d) and (v or vv or a):
+    if (l or d) and (v or a):
         print ("Ignoring Line")
     ##elif (d and v or vv):
         ##print ("Ignoring Line")
     else:
         line = line.rstrip()
         bits = line.split(',')
-        if(v or vv or a):
+        if(v or a):
             bit = bits[0]+",viable\n"
             print (bit)
             outputfile.write(bit)
