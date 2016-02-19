@@ -8,24 +8,22 @@ import codecs
 from itertools import repeat
 import csv
 import sys
-inputfile = open('./phenoGeneCleanData_fish.txt', mode='r')
-outputfile = open('./Lethal&Viable_Genes.txt', mode='w')
-
+inputfile = open('./phenoGeneCleanData_fish_2016.02.18.txt', mode='rb')
+outputfile = open('./Gene&Lethality_Rows.txt', mode='wb')
+PhenLines = []
 for line in inputfile:
-    if "lethal" in line or "viable" in line or "dead" in line or "alive" in line:
-        outputfile.write(line)
+    if "ZDB" in line:
+        PhenLines.append(line)
 
 inputfile.close()
-outputfile.close()
 
 
-inputfile = open('./Lethal&Viable_Genes.txt', mode='r')
-outputfile = open('./Genes&Lethality_Rows.txt', mode='w')
 
-inputfile = csv.reader(inputfile, delimiter='\t')
+
+input = csv.reader(PhenLines, delimiter='\t')
 outputfile = csv.writer(outputfile)
 
-for row in inputfile:
+for row in input:
 
     count = int (1)
 
@@ -38,18 +36,29 @@ for row in inputfile:
 
 data = {}
 
-inputfile = open('./Genes&Lethality_Rows.txt', mode='r')
-outputfile = open('./Genes_With_All_Lethality.txt', mode='w')
+inputfile = open('./Gene&Lethality_Rows.txt', mode='rb')
+outputfile = open('./Genes_With_All_Lethality.txt', mode='wb')
 
 for line in inputfile:
     split_string = line.split(",")
     genome = split_string [0]
     lethalNotation = split_string [1]
+    l = "lethal" in line
+    d = "dead" in line
+    v = "viable" in line
+    a = "alive" in line
+    if not l or not d or not v or not a:
+        lethalNotation = "other"
+    if a:
+        lethalNotation = "viable"
+    if d:
+        lethalNotation = "lethal"
+
     data [genome] = data.get(genome,"")+lethalNotation.rstrip('\r\n')+","
 
 
 for x in data:
-        #print (x+","+data[x]+"\n")
+
     outputfile.write(x+","+data[x]+"\n")
 
 outputfile.close()
@@ -62,33 +71,39 @@ outputfile.close()
 
 
 
-outputfile = open('./Single_Lethality_Genes.txt', mode='w')
-inputfile = open('./Genes_With_All_Lethality.txt', mode='r')
-essOutputfile = open('./Lethal_Fish.txt', mode='w')
+outputfile = open('./Single_Lethality_Genes.txt', mode='wb')
+inputfile = open('./Genes_With_All_Lethality.txt', mode='rb')
+essOutputfile = open('./Lethal_Fish.txt', mode='wb')
 for line in inputfile:
-    v = ",viable" in line
-    a = ",alive" in line
+
     l = ",lethal" in line
-    d = ",dead" in line
+    o = ",other" in line
+    v = ",viable" in line
 
 
-    if (l or d) and (v or a):
+
+    if l and v:
         print ("Ignoring Line")
     ##elif (d and v or vv):
         ##print ("Ignoring Line")
     else:
         line = line.rstrip()
         bits = line.split(',')
-        if(v or a):
+        if(v or o and not l):
             bit = bits[0]+",viable\n"
             print (bit)
             outputfile.write(bit)
-        if(l or d):
+        elif(l and not v):
             bit = bits[0]+",lethal\n"
             print (bit)
             outputfile.write(bit)
             essOutputfile.write(bits[0] + "\n")
-        if ((not l) and (not v)):
+        elif(l and o):
+            bit = bits[0]+",lethal\n"
+            print (bit)
+            outputfile.write(bit)
+            essOutputfile.write(bits[0] + "\n")
+        elif ((not l) and (not v) and (not o)):
             print("Not Viable OR Lethal")
 
 
