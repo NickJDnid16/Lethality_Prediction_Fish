@@ -8,7 +8,7 @@ import codecs
 from itertools import repeat
 import csv
 import sys
-inputfile = open('./phenoGeneCleanData_fish_2016.02.18.txt', mode='rb')
+inputfile = open('./phenoGeneCleanData_fish_2016.02.19.txt', mode='rb')
 outputfile = open('./Gene&Lethality_Rows.txt', mode='wb')
 PhenLines = []
 for line in inputfile:
@@ -47,7 +47,9 @@ for line in inputfile:
     d = "dead" in line
     v = "viable" in line
     a = "alive" in line
-    if not l or not d or not v or not a:
+    if d:
+        print "sd"
+    if not (l or  d or v or a):
         lethalNotation = "other"
     if a:
         lethalNotation = "viable"
@@ -104,6 +106,7 @@ for line in inputfile:
             outputfile.write(bit)
             essOutputfile.write(bits[0] + "\n")
         elif ((not l) and (not v) and (not o)):
+
             print("Not Viable OR Lethal")
 
 
