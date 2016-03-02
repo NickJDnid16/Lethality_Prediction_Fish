@@ -8,9 +8,9 @@ Created on 25 Oct 2015
 import re
 import codecs
 
-GraphInput = open('./GO_Children&Parents.txt', mode='r')
+GraphInput = open('./GO_Children&Parents.txt', mode='rb')
 
-outputfile = open('./GO_Nodes.txt', mode='w')
+outputfile = open('./GO_Nodes.txt', mode='wb')
 
 GO_Seen = set()
 
