@@ -7,7 +7,7 @@ import codecs
 import json
 import sys
 import time
-
+import csv
 counter = 1
 
 from pygraph.classes.digraph import digraph
@@ -57,7 +57,7 @@ counter = 0
 
 count = 0
 
-with open('./Refined_GO_Nodes.txt', mode= 'rb') as input:
+with open('./Refined_GO_Nodes.txt') as input:
     tempVec = []
     BinVec = []
     vec = []
@@ -107,17 +107,19 @@ def Duplicates(Up):
 
 
 debug = 0
-# outputfile = open('/home/mint/git/prediction-of-Lethality-in-Fly-Mutants-using-Machine-Learning/Workspace/Lethality Extraction/Vector.txt')
-data = open('./Gene&GO_F_With_Lethality.txt', mode ='rb')
 
-Func = []
-TempFunc  = []
+data = open('./Gene&GO_F_With_Lethality.txt', mode="rb")
+
 
 outputfile = open('./BinVec.txt', mode='wb')
 OutMissing = open('./Missing.txt', mode='wb')
 OutParents = open('./Parents.txt', mode='wb')
-Genes = open('./Genes.txt', mode='wb')
+
+Func = []
+TempFunc  = []
+
 for line in data:
+
     debug = debug + 1
     csv = line.split(",")
     Gene = csv[0]
@@ -137,13 +139,12 @@ for line in data:
 
             temp = csv[csvCount]
             temp = temp.replace(":", "")
-            Func.append(Gene + "\t" + temp + "\n")
-            
             # print ("Ancestors")
             # print(gr.incidents(temp))
 
             Up.append(temp)
-
+            if "GO0047117" in temp:
+                print "Hello"
 
 
             # Ancestors.extend(Up)
@@ -191,6 +192,8 @@ for line in data:
 
     del Ancestors[:]
     for Node in ModifiedAncestors:
+        if "GO0047117" in Node:
+            print "Hello"
 
         # OutParents.write(Node)
         try:
@@ -207,15 +210,20 @@ for line in data:
                 print("Already Missing")
             except (KeyError, ValueError):
                 Missing.append(Node)
-    
+
     outputfile.write(Gene)
     outputfile.write(',')
+
     for x in ModifiedAncestors:
         Func.append(Gene+"\t"+x+"\n")
+        if "GO0047117" in x:
+            print "Hello"
     for key in BinVec:
         outputfile.write(str(key))
+
     outputfile.write('\n')
     Func.append('\n')
+
     print(Gene, BinVec)
 
     for t in range(0, len(BinVec)):
@@ -235,6 +243,7 @@ print(len(Missing))
 for key in Missing:
     OutMissing.write(str(Missing))
     OutMissing.write('\n')
+
 
 ###############################################
 newFUNC = []
@@ -315,5 +324,3 @@ for element in newFUNC:
 
 
 print(datetime.now() - startTime)
-
-

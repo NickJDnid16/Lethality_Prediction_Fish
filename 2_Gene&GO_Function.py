@@ -7,7 +7,6 @@ data = {}
 import pprint
 outputfile = open('./Gene&GO_F.txt', mode='wb')
 GOoutputfile = open('./Gene_With_Only_GO.txt', mode='wb')
-
 Seen =[]
 FUNC = []
 geneAssociation = open('./gene_association.txt', mode='rb')
