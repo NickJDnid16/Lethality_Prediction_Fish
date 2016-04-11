@@ -139,6 +139,7 @@ for line in data:
 
             temp = csv[csvCount]
             temp = temp.replace(":", "")
+            Func.append(Gene+"\t"+temp+"\n")
             # print ("Ancestors")
             # print(gr.incidents(temp))
 
