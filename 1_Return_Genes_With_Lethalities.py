@@ -89,7 +89,7 @@ for line in inputfile:
     else:
         line = line.rstrip()
         bits = line.split(',')
-        if((v) or (o) and (not l)):
+        if(v or o) and not (l):
             bit = bits[0]+",viable\n"
             print (bit)
             outputfile.write(bit)
