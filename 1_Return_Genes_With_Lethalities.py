@@ -8,7 +8,7 @@ import codecs
 from itertools import repeat
 import csv
 import sys
-inputfile = open('./phenoGeneCleanData_fish.txt', mode='rb')
+inputfile = open('./phenoGeneCleanData_fish_2016.02.19.txt', mode='rb')
 outputfile = open('./Gene&Lethality_Rows.txt', mode='wb')
 PhenLines = []
 for line in inputfile:
